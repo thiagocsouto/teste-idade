@@ -1,0 +1,1 @@
+create table person(id integer auto_increment, name varchar(20), age integer, sex varchar(1)); 
